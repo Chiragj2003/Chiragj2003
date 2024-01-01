@@ -3,6 +3,7 @@ As an Intern I am currently looking forward to making a long-term carrier in Sof
 
 ## 🛠 Languages 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&color=informational&logo=python)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&color=informational&logo=c)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&color=informational&logo=html5)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&color=informational&logo=css3)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
