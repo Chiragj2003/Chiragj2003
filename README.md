@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chirag Joshi</h1>
-<h3 align="justify">As an aspiring Software Developer, I'm enthusiastic about building a long-term career in the field. I'm passionate about Python development, finding joy in crafting innovative solutions and solving coding challenges. With a solid Python foundation, I understand its versatile capabilities, libraries, and frameworks. I look forward to applying my skills to create impactful software solutions, addressing real-world needs. Additionally, I have knowledge in front-end web development, including HTML, CSS, Bootstrap, and JavaScript. My strong communication skills enable me to collaborate effectively with diverse teams. I'm a quick learner, hardworking, and eager to contribute to meaningful projects.</h3>
+<h3 align="center">Chirag Joshi (CJ) — Full Stack Developer · Python · Next.js · TypeScript · React Native · AI/ML</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chiragj2003](https://github.com/Chiragj2003)
 - 📫 How to reach me **chiragj2019@gmail.com**
